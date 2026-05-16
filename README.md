@@ -11,3 +11,4 @@ The main objective of this project is to solve real business problems using SQL 
 * Practice advanced SQL concepts in a practical environment
 * Develop business decision-making insights from raw data
 ## Entity Relationship Diagram (ERD)
+![image alt] (https://github.com/madhusudhan-analytics/amazon-ecommerce-data-analysis/blob/457a16d251f419482ad1a034c155983cc05e42c9/Amazon%20ERD.png)
