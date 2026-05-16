@@ -4,9 +4,9 @@ This project is an end-to-end Amazon E-Commerce SQL Business Analytics Project d
 The project is designed to simulate a real-world Amazon e-commerce environment by analyzing customers, orders, products, payments, shipping, inventory, sellers, and return operations.
 The main objective of this project is to solve real business problems using SQL and generate meaningful business insights through advanced analytical queries.
 ## Project Objectives
-Build a relational e-commerce database using MySQL
-Perform business analytics using SQL
-Analyze sales, profit, customers, returns, shipping, and inventory
-Solve real-world business problems using data
-Practice advanced SQL concepts in a practical environment
-Develop business decision-making insights from raw data
+* Build a relational e-commerce database using MySQL
+* Perform business analytics using SQL
+* Analyze sales, profit, customers, returns, shipping, and inventory
+* Solve real-world business problems using data
+* Practice advanced SQL concepts in a practical environment
+* Develop business decision-making insights from raw data
