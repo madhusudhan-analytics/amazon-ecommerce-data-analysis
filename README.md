@@ -1,4 +1,12 @@
-# AMAZON E-COMMERCE SQL BUSINESS ANALYTICS PROJECT
-## 1.Project Overview
-The Amazon E-Commerce SQL Business Analytics Project is a real-world business analytics project developed using MySQL to analyze customer behavior, sales performance, inventory management, shipping efficiency, payment trends, and product profitability.
-The project uses a relational database consisting of multiple interconnected tables such as Customers, Orders, Products, Payments, Shipping, Inventory, and Sellers to generate meaningful business insights through SQL queries.
+# AMAZON E-COMMERCE | SQL BUSINESS ANALYTICS PROJECT
+## Project Overview
+This project is an end-to-end Amazon E-Commerce SQL Business Analytics Project developed using MySQL 8.0+.
+The project is designed to simulate a real-world Amazon e-commerce environment by analyzing customers, orders, products, payments, shipping, inventory, sellers, and return operations.
+The main objective of this project is to solve real business problems using SQL and generate meaningful business insights through advanced analytical queries.
+## Project Objectives
+Build a relational e-commerce database using MySQL
+Perform business analytics using SQL
+Analyze sales, profit, customers, returns, shipping, and inventory
+Solve real-world business problems using data
+Practice advanced SQL concepts in a practical environment
+Develop business decision-making insights from raw data
