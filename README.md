@@ -14,8 +14,12 @@ The main objective of this project is to solve real business problems using SQL 
 ![Amazon ERD](https://raw.githubusercontent.com/madhusudhan-analytics/amazon-ecommerce-data-analysis/457a16d251f419482ad1a034c155983cc05e42c9/Amazon%20ERD.png)
 ## SQL Concepts Used
 This project demonstrates practical implementation of: Joins, Common Table Expressions (CTEs), Aggregate Functions, CASE Statements, GROUP BY & HAVING, Subqueries, Date Functions, Business KPI Calculations, Data Validation Queries, Profit & Revenue Analysis.
-
-
+## Database Setup & Design
+### DATABASE
+```sql
+CREATE DATABASE IF NOT EXISTS amazon_db;
+USE amazon_db;
+```
 
 
 
