@@ -10,3 +10,4 @@ The main objective of this project is to solve real business problems using SQL 
 * Solve real-world business problems using data
 * Practice advanced SQL concepts in a practical environment
 * Develop business decision-making insights from raw data
+## Entity Relationship Diagram (ERD)
